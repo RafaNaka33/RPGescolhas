@@ -20,16 +20,17 @@ button{
     margin: 2px;
 }
 .um{
-    background-image: url(/img/areia1.avif);
+    background-image: url(img/areia1.avif);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 10px;
 }
 .dois{
-    background-image: url(/img/biblioteca.jpg);
+    background-image: url(img/biblioteca.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 10px;
+
 }
