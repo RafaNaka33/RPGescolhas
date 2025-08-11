@@ -1,0 +1,35 @@
+body{
+    font-family: "Playwrite AU NSW", cursive;
+    color: white;
+    background-color: black;
+}
+button{
+    background-color: rgb(156, 156, 156);
+    color: rgb(0, 0, 0);
+}
+.historia{
+    display: none;
+}
+.historia.ativo{
+    display: block;
+}
+.zanda{
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    margin: 2px;
+}
+.um{
+    background-image: url(/img/areia1.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.dois{
+    background-image: url(/img/biblioteca.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
